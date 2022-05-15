@@ -9,6 +9,7 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 :warning: [I Just Cloned It From Bedimcode](https://www.youtube.com/c/Bedimcode)
+
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
 ![preview img](assets/res/preview.png)
